@@ -11,6 +11,7 @@ Este repositório contém uma série de projetos práticos desenvolvidos durante
 6. [Projetos 7 & 8: UX Design e Relatórios Financeiros](#projetos-7--8-ux-design-e-relatórios-financeiros)
 7. [Projeto 9: Relatórios Dinâmicos com Parâmetros e Storytelling](#projeto-9-relatórios-dinâmicos-com-parâmetros-e-storytelling)
 
+Obs.: O Desafio 1 (Desafio de Projeto Lógico de Banco de Dados) foi enviado no reposiório (https://github.com/alvesfarias74/Banco-de-dados-para-o-cenario-de-E-commerce.git)
 ---
 
 ## Projeto 2: Dashboard de Vendas
