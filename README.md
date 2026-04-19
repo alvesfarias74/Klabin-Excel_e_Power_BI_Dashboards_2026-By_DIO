@@ -3,15 +3,16 @@
 Este repositório contém uma série de projetos práticos desenvolvidos durante o Bootcamp Klabin - Excel e Power BI Dashboards 2026 (DIO, abrangendo desde a criação de visuais básicos até a modelagem dimensional avançada, integração com nuvem (Azure/MySQL) e implementação de parâmetros dinâmicos.
 
 ## Sumário
-1. [Projeto 2: Dashboard de Vendas](#projeto-2-dashboard-de-vendas)
-2. [Projeto 3: Relatório Gerencial com Navegabilidade](#projeto-3-relatório-gerencial-com-navegabilidade)
-3. [Projeto 4: Integração com MySQL no Azure e Transformação de Dados](#projeto-4-integração-com-mysql-no-azure-e-transformação-de-dados)
-4. [Projeto 5: Modelagem Dimensional (Star Schema) - Foco Professor](#projeto-5-modelagem-dimensional-star-schema---foco-professor)
-5. [Projeto 6: Dashboard de E-commerce com DAX e Star Schema](#projeto-6-dashboard-de-e-commerce-com-dax-e-star-schema)
-6. [Projetos 7 & 8: UX Design e Relatórios Financeiros](#projetos-7--8-ux-design-e-relatórios-financeiros)
-7. [Projeto 9: Relatórios Dinâmicos com Parâmetros e Storytelling](#projeto-9-relatórios-dinâmicos-com-parâmetros-e-storytelling)
+1. O Desafio 1 foi enviado no reposiório [Desafio de Projeto Lógico de Banco de Dados](https://github.com/alvesfarias74/Banco-de-dados-para-o-cenario-de-E-commerce.git)
+2. [Projeto 2: Dashboard de Vendas](#projeto-2-dashboard-de-vendas)
+3. [Projeto 3: Relatório Gerencial com Navegabilidade](#projeto-3-relatório-gerencial-com-navegabilidade)
+4. [Projeto 4: Integração com MySQL no Azure e Transformação de Dados](#projeto-4-integração-com-mysql-no-azure-e-transformação-de-dados)
+5. [Projeto 5: Modelagem Dimensional (Star Schema) - Foco Professor](#projeto-5-modelagem-dimensional-star-schema---foco-professor)
+6. [Projeto 6: Dashboard de E-commerce com DAX e Star Schema](#projeto-6-dashboard-de-e-commerce-com-dax-e-star-schema)
+7. [Projetos 7 & 8: UX Design e Relatórios Financeiros](#projetos-7--8-ux-design-e-relatórios-financeiros)
+8. [Projeto 9: Relatórios Dinâmicos com Parâmetros e Storytelling](#projeto-9-relatórios-dinâmicos-com-parâmetros-e-storytelling)
 
-Obs.: O Desafio 1 (Desafio de Projeto Lógico de Banco de Dados) foi enviado no reposiório (https://github.com/alvesfarias74/Banco-de-dados-para-o-cenario-de-E-commerce.git)
+
 ---
 
 ## Projeto 2: Dashboard de Vendas
