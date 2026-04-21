@@ -12,7 +12,6 @@ Este repositório contém uma série de projetos práticos desenvolvidos durante
 7. [Desafios 7 & 8: UX Design e Relatórios Financeiros](#projetos-7--8-ux-design-e-relatórios-financeiros)
 8. [Desafio 9: Relatórios Dinâmicos com Parâmetros e Storytelling](#projeto-9-relatórios-dinâmicos-com-parâmetros-e-storytelling)
 
-
 ---
 
 ## Projeto 2: Dashboard de Vendas
