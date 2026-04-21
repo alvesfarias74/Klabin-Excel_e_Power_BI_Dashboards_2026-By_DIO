@@ -41,6 +41,9 @@ Este repositório contém uma série de projetos práticos desenvolvidos durante
     - Mescla de nomes e sobrenomes para uma coluna única.
     - Combinação de Departamento e Localização para criação de chaves únicas.
 
+### Observação:
+Embora o roteiro preveja o provisionamento na Azure, instabilidades no acesso à conta impossibilitaram a conexão remota. O fluxo de trabalho, entretanto, foi validado localmente seguindo rigorosamente os critérios de transformação e limpeza de dados exigidos.
+
 ## Projeto 5: Modelagem Dimensional (Star Schema) - Foco Professor
 **Objetivo:** Transformar um diagrama relacional em um esquema em estrela.
 - **Fato:** Dados sobre professores, cursos ministrados e departamentos.
