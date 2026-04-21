@@ -14,7 +14,7 @@ Este repositório contém uma série de projetos práticos desenvolvidos durante
 
 ---
 
-## Projeto 2: Dashboard de Vendas
+## Desafio 2: Dashboard de Vendas
 **Objetivo:** Praticar a criação de visuais e disposição de elementos.
 - Replicação de duas páginas padrão do curso utilizando a base de dados *sample*.
 - Criação de uma terceira página personalizada contendo:
@@ -23,14 +23,14 @@ Este repositório contém uma série de projetos práticos desenvolvidos durante
     - **Gráfico de Pizza:** Lucro por segmento.
 - Ajustes de nomes de visuais para clareza e configuração de *tooltips*.
 
-## Projeto 3: Relatório Gerencial com Navegabilidade
+## Desafio 3: Relatório Gerencial com Navegabilidade
 **Objetivo:** Criar um relatório elaborado focado em experiência de navegação.
 - Utilização da base *financials*.
 - Implementação de **botões de navegação** e segmentadores com imagens.
 - Uso de **indicadores (bookmarks)** para alternar visuais sobre o mesmo assunto.
 - Estruturação de layout profissional em duas páginas.
 
-## Projeto 4: Integração com MySQL no Azure e Transformação de Dados
+## Desafio 4: Integração com MySQL no Azure e Transformação de Dados
 **Objetivo:** Conectar o Power BI a um banco de dados na nuvem e realizar ETL avançado.
 - **Infraestrutura:** Criação de instância MySQL na Azure, configuração de firewall e conexão via MySQL Workbench.
 - **Transformação de Dados (Power Query):**
@@ -43,13 +43,13 @@ Este repositório contém uma série de projetos práticos desenvolvidos durante
 ### Observação:
 Embora o roteiro preveja o provisionamento na Azure, instabilidades no acesso à conta impossibilitaram a conexão remota. O fluxo de trabalho, entretanto, foi validado localmente seguindo rigorosamente os critérios de transformação e limpeza de dados exigidos.
 
-## Projeto 5: Modelagem Dimensional (Star Schema) - Foco Professor
+## Desafio 5: Modelagem Dimensional (Star Schema) - Foco Professor
 **Objetivo:** Transformar um diagrama relacional em um esquema em estrela.
 - **Fato:** Dados sobre professores, cursos ministrados e departamentos.
 - **Dimensões:** Tabelas de detalhes contextuais (excluindo dados de alunos).
 - **Tabela Calendário:** Criação de uma dimensão de datas para suportar análises temporais (granularidade diversa).
 
-## Projeto 6: Dashboard de E-commerce com DAX e Star Schema
+## Desafio 6: Dashboard de E-commerce com DAX e Star Schema
 **Objetivo:** Modelagem avançada a partir de uma tabela única utilizando DAX.
 - Decomposição da tabela `Financial Sample` em:
     - `F_Vendas`: Tabela fato com SK e chaves estrangeiras.
@@ -57,13 +57,13 @@ Embora o roteiro preveja o provisionamento na Azure, instabilidades no acesso à
 - **DAX:** Criação da tabela `D_Calendário` utilizando a função `CALENDAR()`.
 - Uso de colunas condicionais e agrupamentos para organização do modelo.
 
-## Projetos 7 & 8: UX Design e Relatórios Financeiros
+## Desafio 7 & 8: UX Design e Relatórios Financeiros
 **Objetivo:** Atualizar relatórios focando na experiência do usuário (UX).
 - Aplicação de princípios de **Posicionamento, Contraste e Proporção Áurea**.
 - Criação de menus de navegação estilizados em todas as páginas (relatório de 3 páginas).
 - Foco em botões que destacam a seleção atual do usuário.
 
-## Projeto 9: Relatórios Dinâmicos com Parâmetros e Storytelling
+## Desafio 9: Relatórios Dinâmicos com Parâmetros e Storytelling
 **Objetivo:** Utilizar parâmetros de campo para criar visuais interativos e dinâmicos.
 - Criação de visuais baseados em:
     - **Parâmetros de Categorias:** Alternância entre diferentes dimensões.
@@ -71,5 +71,5 @@ Embora o roteiro preveja o provisionamento na Azure, instabilidades no acesso à
 - Foco em **Storytelling**: Criação de uma página narrativa apresentando os dados de forma lógica para o cliente.
 
 ---
-*Este repositório foi criado como parte dos desafios de projeto do curso de Power BI.*
+*Este repositório foi criado como parte dos desafios de projeto do Bootcamp Klabin - Excel e Power BI Dashboards 2026 promovido pela DIO.*
 ```
