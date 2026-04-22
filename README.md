@@ -49,6 +49,10 @@ Embora o roteiro preveja o provisionamento na Azure, instabilidades no acesso à
 - **Dimensões:** Tabelas de detalhes contextuais (excluindo dados de alunos).
 - **Tabela Calendário:** Criação de uma dimensão de datas para suportar análises temporais (granularidade diversa).
 
+### Modelo Dimensional
+![Diagrama ER da Universidade](Klabin-Excel_e_Power_BI_Dashboards_2026-By_DIO
+/Desafio 5/der_universidade.png)
+
 ## Desafio 6: Dashboard de E-commerce com DAX e Star Schema
 **Objetivo:** Modelagem avançada a partir de uma tabela única utilizando DAX.
 - Decomposição da tabela `Financial Sample` em:
