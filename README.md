@@ -23,6 +23,11 @@ Este repositório contém uma série de projetos práticos desenvolvidos durante
     - **Gráfico de Pizza:** Lucro por segmento.
 - Ajustes de nomes de visuais para clareza e configuração de *tooltips*.
 
+### Relatórios
+![Diagrama ER da Universidade](./images/dp2 1.png)
+![Diagrama ER da Universidade](./images/dp2 2.png)
+![Diagrama ER da Universidade](./images/dp2 3.png)
+
 ## Desafio 3: Relatório Gerencial com Navegabilidade
 **Objetivo:** Criar um relatório elaborado focado em experiência de navegação.
 - Utilização da base *financials*.
