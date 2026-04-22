@@ -24,8 +24,13 @@ Este repositório contém uma série de projetos práticos desenvolvidos durante
 - Ajustes de nomes de visuais para clareza e configuração de *tooltips*.
 
 ### Relatórios Sample_Financials
+Página 1:
 ![Página 1:](./images/dp2%201.png)
+
+Página 2:
 ![Página 2:](./images/dp2%202.png)
+
+Página 3:
 ![Página 3:](./images/dp2%203.png)
 
 ## Desafio 3: Relatório Gerencial com Navegabilidade
@@ -34,6 +39,13 @@ Este repositório contém uma série de projetos práticos desenvolvidos durante
 - Implementação de **botões de navegação** e segmentadores com imagens.
 - Uso de **indicadores (bookmarks)** para alternar visuais sobre o mesmo assunto.
 - Estruturação de layout profissional em duas páginas.
+
+### Relatório Criativo
+Página 1:
+![Página 1:](./images/dp3%201.png)
+
+Página 2:
+![Página 2:](./images/dp3%202.png)
 
 ## Desafio 4: Integração com MySQL no Azure e Transformação de Dados
 **Objetivo:** Conectar o Power BI a um banco de dados na nuvem e realizar ETL avançado.
