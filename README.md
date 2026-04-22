@@ -23,12 +23,29 @@ Este repositório contém uma série de projetos práticos desenvolvidos durante
     - **Gráfico de Pizza:** Lucro por segmento.
 - Ajustes de nomes de visuais para clareza e configuração de *tooltips*.
 
+### Relatórios Sample_Financials
+Página 1:
+![Página 1:](./images/dp2%201.png)
+
+Página 2:
+![Página 2:](./images/dp2%202.png)
+
+Página 3:
+![Página 3:](./images/dp2%203.png)
+
 ## Desafio 3: Relatório Gerencial com Navegabilidade
 **Objetivo:** Criar um relatório elaborado focado em experiência de navegação.
 - Utilização da base *financials*.
 - Implementação de **botões de navegação** e segmentadores com imagens.
 - Uso de **indicadores (bookmarks)** para alternar visuais sobre o mesmo assunto.
 - Estruturação de layout profissional em duas páginas.
+
+### Relatório Criativo
+Página 1:
+![Página 1:](./images/dp3%201.png)
+
+Página 2:
+![Página 2:](./images/dp3%202.png)
 
 ## Desafio 4: Integração com MySQL no Azure e Transformação de Dados
 **Objetivo:** Conectar o Power BI a um banco de dados na nuvem e realizar ETL avançado.
@@ -48,6 +65,9 @@ Embora o roteiro preveja o provisionamento na Azure, instabilidades no acesso à
 - **Fato:** Dados sobre professores, cursos ministrados e departamentos.
 - **Dimensões:** Tabelas de detalhes contextuais (excluindo dados de alunos).
 - **Tabela Calendário:** Criação de uma dimensão de datas para suportar análises temporais (granularidade diversa).
+
+### Modelo Dimensional
+![Diagrama ER da Universidade](./Desafio%205/der_universidade.png)
 
 ## Desafio 6: Dashboard de E-commerce com DAX e Star Schema
 **Objetivo:** Modelagem avançada a partir de uma tabela única utilizando DAX.
