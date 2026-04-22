@@ -50,7 +50,7 @@ Embora o roteiro preveja o provisionamento na Azure, instabilidades no acesso à
 - **Tabela Calendário:** Criação de uma dimensão de datas para suportar análises temporais (granularidade diversa).
 
 ### Modelo Dimensional
-![Diagrama ER da Universidade](Klabin-Excel_e_Power_BI_Dashboards_2026-By_DIO
+[Diagrama ER da Universidade](Klabin-Excel_e_Power_BI_Dashboards_2026-By_DIO
 /Desafio 5/der_universidade.png)
 
 ## Desafio 6: Dashboard de E-commerce com DAX e Star Schema
