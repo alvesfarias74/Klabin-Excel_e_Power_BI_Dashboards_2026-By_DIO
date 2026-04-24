@@ -66,7 +66,7 @@ Embora o roteiro preveja o provisionamento na Azure, instabilidades no acesso à
 - **Dimensões:** Tabelas de detalhes contextuais (excluindo dados de alunos).
 - **Tabela Calendário:** Criação de uma dimensão de datas para suportar análises temporais (granularidade diversa).
 
-### Modelo Star Schema das Tabelas Dimensão e Fato
+### Modelo Dimensional
 ![](Modelagem_Dimensional./images/dp5.png)
 
 ## Desafio 6: Dashboard de E-commerce com DAX e Star Schema
@@ -77,7 +77,7 @@ Embora o roteiro preveja o provisionamento na Azure, instabilidades no acesso à
 - **DAX:** Criação da tabela `D_Calendário` utilizando a função `CALENDAR()`.
 - Uso de colunas condicionais e agrupamentos para organização do modelo.
 
-### Modelo Dimensional
+### Modelo Star Schema das Tabelas Dimensão e Fato
 ![Diagrama ER da Universidade](./images/dp6.png)
 
 ## Desafio 7 & 8: UX Design e Relatórios Financeiros
