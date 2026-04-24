@@ -67,7 +67,7 @@ Embora o roteiro preveja o provisionamento na Azure, instabilidades no acesso à
 - **Tabela Calendário:** Criação de uma dimensão de datas para suportar análises temporais (granularidade diversa).
 
 ### Modelo Dimensional
-![Diagrama ER da Universidade](./Desafio%205/der_universidade.png)
+![Diagrama ER da Universidade](./images/dp5.png)
 
 ## Desafio 6: Dashboard de E-commerce com DAX e Star Schema
 **Objetivo:** Modelagem avançada a partir de uma tabela única utilizando DAX.
