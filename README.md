@@ -86,6 +86,19 @@ Embora o roteiro preveja o provisionamento na Azure, instabilidades no acesso à
 - Criação de menus de navegação estilizados em todas as páginas (relatório de 3 páginas).
 - Foco em botões que destacam a seleção atual do usuário.
 
+### Páginas Desenvolvidas no Desafio de Projeto 7
+Página 1:
+![Home](./images/dp7%201.png)
+
+Página 2:
+![Sales Report](./images/dp7%202.png)
+
+Página 3:
+![Report de Lucro Detalhado](./images/dp7%203.png)
+
+Página 4:
+![Report de Vendas Detalhado](./images/dp7%203.png)
+
 ## Desafio 9: Relatórios Dinâmicos com Parâmetros e Storytelling
 **Objetivo:** Utilizar parâmetros de campo para criar visuais interativos e dinâmicos.
 - Criação de visuais baseados em:
