@@ -80,24 +80,58 @@ Embora o roteiro preveja o provisionamento na Azure, instabilidades no acesso à
 ### Modelo Star Schema das Tabelas Dimensão e Fato
 ![Modelo_Dimencional](./images/dp6.png)
 
-## Desafio 7 & 8: UX Design e Relatórios Financeiros
+## Projeto de Data Analytics com Power BI
+**Objetivo:**  
+Desenvolver e atualizar um relatório em Power BI com foco na **experiência do usuário (UX)**, priorizando clareza, navegação intuitiva e organização visual.
+
+### Pontos considerados
+- Criação da **página de detalhes**, conforme apresentado no desafio de projeto.
+- Planejamento da **disposição dos visuais**, considerando a forma como o cliente irá consumir o conteúdo.
+- Aplicação dos princípios de **Posicionamento, Contraste e Proporção Áurea** para melhor leitura e hierarquia da informação.
+- Estruturação do relatório com **até duas páginas**, podendo variar conforme a disposição dos visuais.
+- Criação das **medidas necessárias** para suportar as análises propostas.
+
+### Navegação e Interação
+- Implementação de **menus de navegação estilizados** nas páginas do relatório.
+- Utilização de **botões interativos** que destaquem visualmente a seleção atual do usuário.
+
+### Visuais que podem compor o relatório
+- Visuais destacando os **TOP 3 Produtos**.
+- Análise dos **principais países** em termos de vendas e/ou lucro (profit) ou outro campo relevante.
+- **Gráfico de dispersão** relacionando Unidades Vendidas e Vendas por mês.
+- Visuais de **agrupamento de dados** para identificação de padrões.
+- Visuais de **compartimentação dos dados** para análises segmentadas.
+
+### Páginas Desenvolvidas no Desafio de Projeto 7
+
+Página 1:
+![Sales Report](./images/dp7%201.png)
+
+Página 2:
+![Report de Lucro Detalhado](./images/dp7%202.png)
+
+Página 3:
+![Report de Vendas Detalhado](./images/dp7%203.png)
+
+## Desafio 8: UX Design e Relatórios Financeiros
 **Objetivo:** Atualizar relatórios focando na experiência do usuário (UX).
 - Aplicação de princípios de **Posicionamento, Contraste e Proporção Áurea**.
 - Criação de menus de navegação estilizados em todas as páginas (relatório de 3 páginas).
 - Foco em botões que destacam a seleção atual do usuário.
 
-### Páginas Desenvolvidas no Desafio de Projeto 7
+### Páginas Desenvolvidas/Atualizadas no Desafio de Projeto 8
+
 Página 1:
-![Home](./images/dp7%201.png)
+![Home](./images/dp8%201.png)
 
 Página 2:
-![Sales Report](./images/dp7%202.png)
+![Principal](./images/dp8%202.png)
 
 Página 3:
-![Report de Lucro Detalhado](./images/dp7%203.png)
+![Detalhes](./images/dp8%203.png)
 
-Página 4:
-![Report de Vendas Detalhado](./images/dp7%203.png)
+Página 3:
+![TOPN & Outliers](./images/dp8%204.png)
 
 ## Desafio 9: Relatórios Dinâmicos com Parâmetros e Storytelling
 **Objetivo:** Utilizar parâmetros de campo para criar visuais interativos e dinâmicos.
